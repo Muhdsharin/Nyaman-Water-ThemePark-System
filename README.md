@@ -1,4 +1,3 @@
-# Nyaman-Water-ThemePark-System
 # Nyaman Water Theme Park System
 
  Overview
@@ -26,5 +25,5 @@ This project is a Java Swing-based Water Theme Park Management System integrated
 3. Update database credentials in `CustomerDB.java`
 4. Run `GUI.java`
 
-## 👨‍💻 Author
+##Author
 Muhd Sharin
